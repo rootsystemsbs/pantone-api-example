@@ -1,0 +1,31 @@
+{
+  "name": "pantone-api-example",
+  "version": "1.0.0",
+  "description": "This is running React Application with implementation of Pantone API  using Amplify",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@aws-amplify/ui-react": "1.2.11",
+    "aws-amplify": "4.2.5",
+    "prism-react-renderer": "1.3.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
